@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=Bold&size=24&duration=3000&pause=1000&color=32CD32&background=000000&center=true&vCenter=true&width=600&height=40&lines=Deep+Learning+|+SDR+|+Python;PyTorch+|+Computer+Vision;本科在读+|+深度学习方向" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=Bold&size=24&duration=3000&pause=1000&color=32CD32&background=000000&center=true&vCenter=true&width=600&height=40&lines=以眼观世界，以码识万物;Deep+Learning+|+Computer+Vision;深圳大学+|+电子信息工程" alt="Typing SVG" />
 </p>
 
 <!-- 个人名片 -->
@@ -9,7 +9,7 @@
 <br>
 💡 研究方向：深度学习 | 计算机视觉
 <br>
-<a href="mailto:hhantenna@xxx.com"><img src="https://img.shields.io/badge/Email-联系我-blue?style=flat&logo=gmail" /></a>
+<a href="mailto:hhgithub@163.com"><img src="https://img.shields.io/badge/Email-联系我-blue?style=flat&logo=gmail" /></a>
 <a href="https://github.com/HH-ANTENNA"><img src="https://img.shields.io/badge/GitHub-主页-lightgrey?style=flat&logo=github" /></a>
 <a href="https://hh-antenna.github.io"><img src="https://img.shields.io/badge/个人网站-访问-green?style=flat&logo=google-chrome" /></a>
 </p>
