@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+HH-ANTENNA;Building+Computer+Vision+System;Focus:+Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&height=40&lines=Hi+there,+I'm+HH-ANTENNA;Building+Computer+Vision+System;Focus:+Python+%7C+PyTorch+%7C+OpenCV" alt="Typing SVG" />
+</div>
 <br/>
 
 <p>
