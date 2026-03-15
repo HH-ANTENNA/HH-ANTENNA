@@ -35,6 +35,18 @@
 
 ---
 
+✨ Project Spotlight: Handwritten-Digit-Recognition-YOLOv8
+| Solved the pain point: 提供开箱即用的端到端手写数字识别方案，无需手动准备MNIST数据集，支持实时手写交互与多数字连续识别，解决了传统工具部署复杂、交互体验差的问题。
+
+[Handwritten-Digit-Recognition-YOLOv8](https://github.com/HH-ANTENNA/Handwritten-Digit-Recognition-YOLOv8)
+- 🚀 Engineering: 基于YOLOv8分类模型构建，集成Otsu自适应阈值预处理、竖直投影多数字分割与Tkinter可视化GUI，实现一键训练、实时识别与置信度可视化。
+- 💡 Value: 封装完整工程化流程，可直接作为计算机视觉入门项目与面试技术作品集，支持GPU/CPU自适应加速，零额外数据准备成本。
+- 🛠️ Stack: Python 3.8+, PyTorch / Ultralytics YOLOv8, Pillow, NumPy, Tkinter, Git.
+
+---
+
+---
+
 ### 🛠 Tech Stack
 
 | Core | Frameworks & Tools |
