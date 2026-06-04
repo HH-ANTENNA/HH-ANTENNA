@@ -23,6 +23,8 @@
 
 <br />
 
+[中文文档](README_CN.md)
+
 ---
 
 ### 🌟 Project Spotlight: dl-learning-journey
