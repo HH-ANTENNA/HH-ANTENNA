@@ -12,9 +12,6 @@
   🚀 <b>Core:</b> Computer Vision | Deep Learning | AI Application
 </p>
 
-<a href="mailto:hhgithub@163.com">
-  <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 <a href="https://github.com/HH-ANTENNA">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
 </a>

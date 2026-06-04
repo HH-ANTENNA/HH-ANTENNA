@@ -12,9 +12,6 @@
   🚀 <b>方向：</b>计算机视觉 | 深度学习 | AI 应用
 </p>
 
-<a href="mailto:hhgithub@163.com">
-  <img src="https://img.shields.io/badge/Email-Me-blue?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 <a href="https://github.com/HH-ANTENNA">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
 </a>
