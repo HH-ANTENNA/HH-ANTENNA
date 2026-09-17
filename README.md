@@ -5,7 +5,7 @@
 <br/>
 
 **Electronic & Information Engineering @ Shenzhen University**
-GPA 3.85 / 4.50 · 2024 – 2028
+GPA 3.66 / 4.50 · 2024 – 2028
 
 🎯 **Seeking Internship:** Computer Vision Algorithm / Embedded AI
 
